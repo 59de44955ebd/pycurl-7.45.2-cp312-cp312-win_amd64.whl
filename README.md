@@ -2,7 +2,7 @@
 
 PycURL wheel for Python 3.12.0/Windows x64
 
-Since compiling [PycURL](https://github.com/pycurl/pycurl) for Windows is quite hard, here a wheel for convenience. 
+Since compiling [PycURL](https://github.com/pycurl/pycurl) for Windows and Python 3.12.x is rather complicated, here such a wheel for convenience. 
 
 ## Usage:
 
